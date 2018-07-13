@@ -11,38 +11,46 @@
 }
 
 #pingNum {
-  width: 40%;
+  width: 50%;
 }
 
 .col-3 {
   height: 100vh;
-  background-color: coral;
+  background-color: #C3F8EC  ;
 }
 
 #star {
-  margin-left: 10px;
-  color: grey:
+  margin-left: 1px;
+  padding-top: 0;
+  margin-right: 1px;
+
 }
 
 .container {
   background color: orange;
+  margin: auto;
 }
 
 h4:hover{
-  color: white;
-}
-button:hover{
-  color:red;
+  color: red;
 }
 
+h2{
+  text-align: center;
+}
 #rice {
   background-image: url("../img/bg.jpeg");
 }
 
 h3{
-  color:green;
+  color:#2A33FC;
 }
 
 h4{
-  color:green;
+  color:#4A54B3;
+}
+
+h5{
+  font-style: italic;
+  color: black;
 }
