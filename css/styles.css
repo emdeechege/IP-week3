@@ -1,6 +1,7 @@
 #top {
   background-image: url("../img/ping.gif");
   height: 300px;
+
 }
 
 #mark{
@@ -15,3 +16,6 @@
 .col4 {
   border-right: 6px solid red;
 }
+/* .five{
+  text-align: left;
+} */
