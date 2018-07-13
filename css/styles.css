@@ -1,0 +1,17 @@
+#top {
+  background-image: url("../img/ping.gif");
+  height: 300px;
+}
+
+#mark{
+  text-align: center;
+  font-size: 50px;
+}
+
+#pingNum {
+  width: 40%;
+}
+
+.col4 {
+  border-right: 6px solid red;
+}
