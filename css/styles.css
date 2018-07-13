@@ -19,14 +19,30 @@
   background-color: coral;
 }
 
-#display li {
-  list-style-type: circle;
-}
-
 #star {
   margin-left: 10px;
+  color: grey:
 }
 
 .container {
   background color: orange;
+}
+
+h4:hover{
+  color: white;
+}
+button:hover{
+  color:red;
+}
+
+#rice {
+  background-image: url("../img/bg.jpeg");
+}
+
+h3{
+  color:green;
+}
+
+h4{
+  color:green;
 }
