@@ -1,10 +1,11 @@
 #top {
   background-image: url("../img/ping.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 300px;
-
 }
 
-#mark{
+#mark {
   text-align: center;
   font-size: 50px;
 }
@@ -13,10 +14,19 @@
   width: 40%;
 }
 
-.col4 {
-  border-right: 6px solid red;
-}
 .col-3 {
-  height:100vh;
+  height: 100vh;
   background-color: coral;
+}
+
+#display li {
+  list-style-type: circle;
+}
+
+#star {
+  margin-left: 10px;
+}
+
+.container {
+  background color: orange;
 }
